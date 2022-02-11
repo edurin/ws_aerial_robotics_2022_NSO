@@ -1,0 +1,15 @@
+material china_material
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture china.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}

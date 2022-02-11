@@ -1,0 +1,15 @@
+material austria_material
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture austria.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
